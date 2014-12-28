@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-buttons",
+  "version": "0.1.0",
+  "description": "Buttons component for blank-css",
+  "main": "buttons.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-component-buttons",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "buttons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
